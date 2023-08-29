@@ -1,0 +1,1 @@
+Sebagai Referensi Semi Native
