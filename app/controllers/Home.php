@@ -1,10 +1,11 @@
 <?php 
 
-class Home {
+class Home extends Controller {
 
 	public function index(){
-		// $this->view('home/index');
-		echo "Hai nama saya ";
+		$this->view('landing-page/templates/Header-home');
+		$this->view('landing-page/index');
+		$this->view('landing-page/templates/Footer-home');
 	}
 }
 

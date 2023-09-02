@@ -1,7 +1,9 @@
 <?php 
-class About{
+class About extends Controller{
 
-	public function index($name = "Sandhika", $school = "SMK06 JEMBER"){
-		echo "Nama saya adalah $name.Saya sekolah di $school";
+	public function index(){
+		$this->view('landing-page/templates/Header-About');
+		$this->view('landing-page/about');
+		$this->view('landing-page/templates/Footer-About');
 	}
 }
