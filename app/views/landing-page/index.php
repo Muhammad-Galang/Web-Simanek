@@ -28,21 +28,21 @@
 		</ol>
 		<div class="carousel-inner">
 			<div class="carousel-item active">
-				<img src="<?=BASEURL; ?>/home/images/carousel/Ekskul-1.jpg" class="d-block w-100" alt="carousel">
+				<img src="<?=BASEURL; ?>/landing-page/images/carousel/Ekskul-1.jpg" class="d-block w-100" alt="carousel">
 				<div class="carousel-caption d-none d-md-block">
 					<h2 class="text-white">First slide label</h2>
 					<p>Some representative placeholder content for the first slide.</p>
 				</div>
 			</div>
 			<div class="carousel-item">
-				<img src="<?=BASEURL; ?>/home/images/carousel/Ekskul-2.jpg" class="d-block w-100" alt="carousel">
+				<img src="<?=BASEURL; ?>/landing-page/images/carousel/Ekskul-2.jpg" class="d-block w-100" alt="carousel">
 				<div class="carousel-caption d-none d-md-block">
 					<h2 class="text-white">Second slide label</h2>
 					<p>Some representative placeholder content for the second slide.</p>
 				</div>
 			</div>
 			<div class="carousel-item">
-				<img src="<?=BASEURL; ?>/home/images/carousel/Ekskul-3.jpg" class="d-block w-100" alt="carousel">
+				<img src="<?=BASEURL; ?>/landing-page/images/carousel/Ekskul-3.jpg" class="d-block w-100" alt="carousel">
 				<div class="carousel-caption d-none d-md-block">
 					<h2 class="text-white">Third slide label</h2>
 					<p>Some representative placeholder content for the third slide.</p>
@@ -74,7 +74,7 @@
 			</div>
 			<div class="col-md-1"></div>
 			<div class="col-md-6 site-animate img" data-animate-effect="fadeInRight">
-				<img src="<?=BASEURL; ?>/home/images/tentang/Ekskul-1.jpg" alt="Foto-tentang" class="img-fluid">
+				<img src="<?=BASEURL; ?>/landing-page/images/tentang/Ekskul-1.jpg" alt="Foto-tentang" class="img-fluid">
 			</div>
 		</div>
 	</section>
@@ -99,7 +99,7 @@
 
 						<div class="item">
 							<div class="media d-block mb-4 text-center site-media site-animate border-0">
-								<img src="<?=BASEURL; ?>/home/images/ekskul/Osis.jpg" alt="Foto-ekskul" class="img-fluid">
+								<img src="<?=BASEURL; ?>/landing-page/images/ekskul/Osis.jpg" alt="Foto-ekskul" class="img-fluid">
 								<div class="media-body p-md-5 p-4">
 									<h5 class="mt-0 h4">OSIS</h5>
 									<p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam omnis ut accusamus voluptatibus nulla! Voluptas!</p>
@@ -111,7 +111,7 @@
 
 						<div class="item">
 							<div class="media d-block mb-4 text-center site-media site-animate border-0">
-								<img src="<?=BASEURL; ?>/home/images/ekskul/Mpk.jpg" alt="Foto-ekskul" class="img-fluid">
+								<img src="<?=BASEURL; ?>/landing-page/images/ekskul/Mpk.jpg" alt="Foto-ekskul" class="img-fluid">
 								<div class="media-body p-md-5 p-4">
 									<h5 class="mt-0 h4">MPK </h5>
 									<p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus officiis laboriosam qui adipisci possimus vel?</p>
@@ -123,7 +123,7 @@
 
 						<div class="item">
 							<div class="media d-block mb-4 text-center site-media site-animate border-0">
-								<img src="<?=BASEURL; ?>/home/images/ekskul/Pmr.jpg" alt="Foto-ekskul" class="img-fluid">
+								<img src="<?=BASEURL; ?>/landing-page/images/ekskul/Pmr.jpg" alt="Foto-ekskul" class="img-fluid">
 								<div class="media-body p-md-5 p-4">
 									<h5 class="mt-0 h4">PMR</h5>
 									<p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem illum quisquam dolor explicabo impedit. Error.</p>
@@ -135,7 +135,7 @@
 
 						<div class="item">
 							<div class="media d-block mb-4 text-center site-media site-animate border-0">
-								<img src="images/ekskul/Rohis.jpg" alt="Foto-ekskul" class="img-fluid">
+								<img src="<?=BASEURL; ?>/landing-page/images/ekskul/Rohis.jpg" alt="Foto-ekskul" class="img-fluid">
 								<div class="media-body p-md-5 p-4">
 									<h5 class="mt-0 h4">Rohis</h5>
 									<p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam omnis ut accusamus voluptatibus nulla! Voluptas!</p>
@@ -147,7 +147,7 @@
 
 						<div class="item">
 							<div class="media d-block mb-4 text-center site-media site-animate border-0">
-								<img src="images/ekskul/Silat.jpg" alt="Foto-ekskul" class="img-fluid">
+								<img src="<?=BASEURL; ?>/landing-page/images/ekskul/Silat.jpg" alt="Foto-ekskul" class="img-fluid">
 								<div class="media-body p-md-5 p-4">
 									<h5 class="mt-0 h4">Pencak Silat</h5>
 									<p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam omnis ut accusamus voluptatibus nulla! Voluptas!</p>
@@ -159,7 +159,7 @@
 
 						<div class="item">
 							<div class="media d-block mb-4 text-center site-media site-animate border-0">
-								<img src="images/ekskul/Pramuka.jpg" alt="Foto-ekskul" class="img-fluid">
+								<img src="<?=BASEURL; ?>/landing-page/images/ekskul/Pramuka.jpg" alt="Foto-ekskul" class="img-fluid">
 								<div class="media-body p-md-5 p-4">
 									<h5 class="mt-0 h4">Pramuka</h5>
 									<p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam omnis ut accusamus voluptatibus nulla! Voluptas!</p>
