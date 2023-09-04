@@ -2,14 +2,14 @@
 /**
  * 
  */
-class User extends Controller{
+class Laporan extends Controller{
 	
 	public function index()
 	{
-		$data['judul'] = "Halaman Pengguna";
-		// $data['usr'] = $this->model('UserModel')->getAllUser();
+		$data['judul'] = "Halaman Laporan";
+		
 		$this->view('data-view/templates/Header-Index',$data);
-		$this->view('data-view/index');
+		$this->view('data-view/laporan');
 		$this->view('data-view/templates/Footer-Index');
 	}
 }	

@@ -8,7 +8,7 @@ class Pembimbing extends Controller{
 	{
 		$data['judul'] = "Halaman Pembimbing";
 		
-		$this->view('data-view/templates/Header-Index');
+		$this->view('data-view/templates/Header-Index',$data);
 		$this->view('data-view/pembimbing');
 		$this->view('data-view/templates/Footer-Index');
 	}
